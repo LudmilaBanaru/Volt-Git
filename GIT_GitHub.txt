@@ -1,4 +1,4 @@
-#########
+﻿#########
 #
 #  GIT
 #
@@ -76,6 +76,7 @@
 	- faire un pull request
 	- accepter un pull request
 	- on peut ajouter des contributeurs a notre projet pour qu'ils soient capable de push directement
+Merci de cette explication
 
 
 
